@@ -6,6 +6,7 @@ Description: Notes and reference links for weekly saturday discussion on Linear 
 | S. No | Topic Name (Hyperlinked)  | Date | Person name | Reference Links |
 | :---: | :---: | :---: | :---: | :---: | 
 | 0  | [Dummy](https://github.com/cvthirumalakumar/Saturday-Maths/blob/main/Notes/LA/Dummy.pdf)  | 00-00-0000  | Dummy  | [Link-1](https://github.com/cvthirumalakumar/Saturday-Maths), [Link-2](https://github.com/cvthirumalakumar/Saturday-Maths) |
+| 1  | Matrix Inverse  | 27/07/2024 | Meenakshi | Introduction to Linear Algebra by Gilbert strange textbook and [Link 1]([https://mbernste.github.io/posts/em/](https://www.khanacademy.org/math/linear-algebra))|
 | Content Cell  | Content Cell  | Content Cell  | Content Cell  | |
 
 
