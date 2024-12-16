@@ -11,7 +11,6 @@ Description: Notes and reference links for weekly saturday discussion on Linear 
 | 3  | [Inverse of a matrix and Determinants](https://github.com/Meenakshi-mini/Saturday-Maths/blob/main/Notes/LA/Matrix%20inverse.pdf) | 27/07/2024 | Meenakshi | [Lecture Video](https://www.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-transformations/v/linear-algebra-introduction-to-the-inverse-of-a-function) |
 | 4  | [Properties of Inverses and Determinants](https://github.com/Meenakshi-mini/Saturday-Maths/blob/921272cf91f9eaa7d80f588cca7fc0a5320b5b13/Notes/LA/Properties%20of%20determinants%20and%20inverses.pdf) | 29/08/2024 | Meenakshi | [Lecture Video](https://www.khanacademy.org/math/linear-algebra/matrix-transformations/determinant-depth/v/linear-algebra-determinant-when-row-multiplied-by-scalar) |
 | 5  | [Orhtogonal matrices](https://github.com/Meenakshi-mini/Saturday-Maths/blob/main/Notes/LA/Orthogonal%20matrices.pdf) | 14/12/2024 | Meenakshi | [Lecture Video](https://www.khanacademy.org/math/linear-algebra/alternate-bases/othogonal-complements/v/linear-algebra-orthogonal-complements) |
-
 | Content Cell  | Content Cell  | Content Cell  | Content Cell  | |
 
 
