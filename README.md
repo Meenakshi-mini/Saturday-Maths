@@ -6,7 +6,11 @@ Description: Notes and reference links for weekly saturday discussion on Linear 
 | S. No | Topic Name (Hyperlinked)  | Date | Person name | Reference Links |
 | :---: | :---: | :---: | :---: | :---: | 
 | 0  | [Dummy](https://github.com/cvthirumalakumar/Saturday-Maths/blob/main/Notes/LA/Dummy.pdf)  | 00-00-0000  | Dummy  | [Link-1](https://github.com/cvthirumalakumar/Saturday-Maths), [Link-2](https://github.com/cvthirumalakumar/Saturday-Maths) |
-| 1  | [Inverse of a matrix](https://github.com/Meenakshi-mini/Saturday-Maths/blob/main/Notes/LA/Inverse_of_matrix.pdf) | 27/07/2024 | Meenakshi | [Lecture Video](https://www.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-transformations/v/linear-algebra-introduction-to-the-inverse-of-a-function) |
+| 1  | [Introduction to vectors](https://github.com/Meenakshi-mini/Saturday-Maths/blob/main/Notes/LA/Inverse_of_matrix.pdf) | 27/07/2024 | Meenakshi | [Lecture Video](https://www.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-transformations/v/linear-algebra-introduction-to-the-inverse-of-a-function) |
+| 2  | [Solving Linear equations](https://github.com/Meenakshi-mini/Saturday-Maths/blob/main/Notes/LA/Inverse_of_matrix.pdf) | 27/07/2024 | Meenakshi | [Lecture Video](https://www.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-transformations/v/linear-algebra-introduction-to-the-inverse-of-a-function) |
+| 3  | [Inverse of a matrix and Determinant](https://github.com/Meenakshi-mini/Saturday-Maths/blob/main/Notes/LA/Inverse_of_matrix.pdf) | 27/07/2024 | Meenakshi | [Lecture Video](https://www.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-transformations/v/linear-algebra-introduction-to-the-inverse-of-a-function) |
+| 4  | [Properties of Inverses and Determinants](https://github.com/Meenakshi-mini/Saturday-Maths/blob/main/Notes/LA/Inverse_of_matrix.pdf) | 27/07/2024 | Meenakshi | [Lecture Video](https://www.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-transformations/v/linear-algebra-introduction-to-the-inverse-of-a-function) |
+| 5  | [Orhtogonal matrices](https://github.com/Meenakshi-mini/Saturday-Maths/blob/main/Notes/LA/Inverse_of_matrix.pdf) | 27/07/2024 | Meenakshi | [Lecture Video](https://www.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-transformations/v/linear-algebra-introduction-to-the-inverse-of-a-function) |
 
 | Content Cell  | Content Cell  | Content Cell  | Content Cell  | |
 
